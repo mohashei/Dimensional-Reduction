@@ -1,19 +1,7 @@
 ## The Laplacian Eigenmaps/TSNE visualization page.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Here we give an example of the dimensional reduction techniques using jupyter notebooks. We have 3 different methods we try in this notebook:
+1. PCA
+2. Laplacian Eigenmaps
+3. TSNE (and Barnes-Hut TSNE as well)
+With these three we hope to visualize distributions of avalanches of stars. In particular, <img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
