@@ -1,4 +1,4 @@
-## The Laplacian Eigenmaps/TSNE visualization page.
+## The dimensional reduction and visualization project.
 
 Here we give an example of the dimensional reduction techniques using jupyter notebooks. We have 3 different methods we try in this notebook:
 1. PCA
